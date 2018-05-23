@@ -1,0 +1,45 @@
+Initialize engine version: 4.3.4f1 (e444f76e01cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: H:\New Temp Backup\EAE 4500\RZA - Take 2\Rainbow Zombie Apocalypse_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading H:\New Temp Backup\EAE 4500\RZA - Take 2\Rainbow Zombie Apocalypse_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: H:\New Temp Backup\EAE 4500\RZA - Take 2\Rainbow Zombie Apocalypse_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading H:\New Temp Backup\EAE 4500\RZA - Take 2\Rainbow Zombie Apocalypse_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: H:\New Temp Backup\EAE 4500\RZA - Take 2\Rainbow Zombie Apocalypse_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading H:\New Temp Backup\EAE 4500\RZA - Take 2\Rainbow Zombie Apocalypse_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: H:\New Temp Backup\EAE 4500\RZA - Take 2\Rainbow Zombie Apocalypse_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading H:\New Temp Backup\EAE 4500\RZA - Take 2\Rainbow Zombie Apocalypse_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+- Completed reload, in  0.043 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x2160 at 0,-1080
+UnloadTime: 1.174216 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1161 unused Assets to reduce memory usage. Loaded Objects now: 8192.
+Total: 4.901102 ms (FindLiveObjects: 0.208583 ms CreateObjectMapping: 0.069527 ms MarkObjects: 0.096532 ms  DeleteObjects: 4.037900 ms)
+
+UnloadTime: 4.820400 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1512.
+Total: 0.834956 ms (FindLiveObjects: 0.028556 ms CreateObjectMapping: 0.020485 ms MarkObjects: 0.131606 ms  DeleteObjects: 0.217585 ms)
+
+UnloadTime: 1.200909 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1169 unused Assets to reduce memory usage. Loaded Objects now: 275.
+Total: 8.579878 ms (FindLiveObjects: 0.026072 ms CreateObjectMapping: 0.021417 ms MarkObjects: 0.064872 ms  DeleteObjects: 8.002237 ms)
+
+Platform assembly: H:\New Temp Backup\EAE 4500\RZA - Take 2\Rainbow Zombie Apocalypse_Data\Managed\Boo.Lang.dll (this message is harmless)
+UnloadTime: 0.760152 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1519.
+Total: 4.734732 ms (FindLiveObjects: 0.030418 ms CreateObjectMapping: 0.027935 ms MarkObjects: 0.121673 ms  DeleteObjects: 4.069870 ms)
+
